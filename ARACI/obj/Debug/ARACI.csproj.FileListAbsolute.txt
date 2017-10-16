@@ -1,0 +1,368 @@
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\bin\Debug\ARACI.exe.config
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\bin\Debug\ARACI.exe
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\bin\Debug\ARACI.pdb
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.exe
+c:\users\bianca pereira\documents\visual studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.exe
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\bin\Debug\ARACI.exe
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Sarah\OneDrive\Documentos\ARACI - Version 3\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 3\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 4\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Documents\Visual Studio 2017\Projects\ARACI - Version 5\ARACI\obj\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 5\ARACI\bin\Debug\ARACI.exe.config
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 5\ARACI\bin\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 5\ARACI\bin\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 5\ARACI\bin\Debug\MySql.Data.dll
+E:\TCC\App\ARACI - Version 5\ARACI\bin\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 5\ARACI\bin\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Login.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel1.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel4.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Nivel5.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+E:\TCC\App\ARACI - Version 5\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+E:\TCC\App\ARACI - Version 6\ARACI\bin\Debug\ARACI.exe.config
+E:\TCC\App\ARACI - Version 6\ARACI\obj\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 6\ARACI\obj\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+E:\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Cadastro.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 6\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Cadastro.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 7\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Cadastro.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 8\ARACI\obj\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\ARACI.exe.config
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Cadastro.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Login.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel1.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel2.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel5.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Nivel4.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+E:\TCC\App\ARACI - Version 9\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\ARACI.mdf
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\ARACI_log.ldf
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\MySql.Data.dll
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 9\ARACI\bin\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.exe.config
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.mdf
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI_log.ldf
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.exe
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.pdb
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\MySql.Data.dll
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\Interop.WMPLib.dll
+E:\TCC\App\ARACI - Version 10\ARACI\bin\Debug\AxInterop.WMPLib.dll
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Cadastro.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Login.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel1.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel2.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel5.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel4.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+E:\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.exe.config
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\bin\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\bin\Debug\MySql.Data.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.csprojResolveAssemblyReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.csproj.ResolveComReference.cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Cadastro.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Login.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.MenuPrincipal.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero0.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero1.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero2.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero3.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero6.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero7.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero8.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel3_numero9.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel5.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Nivel4.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Properties.Resources.resources
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.csproj.GenerateResource.Cache
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.exe
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.pdb
+C:\Users\Bianca Pereira\Desktop\TCC\App\ARACI - Version 10\ARACI\obj\Debug\ARACI.Classificacao.resources

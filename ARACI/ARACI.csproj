@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B016B0E-5949-4036-9F5F-79777A1106E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ARACI</RootNamespace>
+    <AssemblyName>ARACI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.9\lib\net45\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classificacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classificacao.Designer.cs">
+      <DependentUpon>Classificacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexão.cs" />
+    <Compile Include="0Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0Login.Designer.cs">
+      <DependentUpon>0Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\PontuarDAO.cs" />
+    <Compile Include="DAO\UsuarioDAO.cs" />
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Pontuacao.cs" />
+    <Compile Include="Model\Jogo.cs" />
+    <Compile Include="Model\JogoUsuario.cs" />
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Nivel1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel1.Designer.cs">
+      <DependentUpon>Nivel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel2.Designer.cs">
+      <DependentUpon>Nivel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero0.Designer.cs">
+      <DependentUpon>Nivel3_numero0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero1.Designer.cs">
+      <DependentUpon>Nivel3_numero1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero2.Designer.cs">
+      <DependentUpon>Nivel3_numero2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero3.Designer.cs">
+      <DependentUpon>Nivel3_numero3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero4.Designer.cs">
+      <DependentUpon>Nivel3_numero4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero5.Designer.cs">
+      <DependentUpon>Nivel3_numero5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero6.Designer.cs">
+      <DependentUpon>Nivel3_numero6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero7.Designer.cs">
+      <DependentUpon>Nivel3_numero7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero8.Designer.cs">
+      <DependentUpon>Nivel3_numero8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel3_numero9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel3_numero9.Designer.cs">
+      <DependentUpon>Nivel3_numero9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel5.Designer.cs">
+      <DependentUpon>Nivel5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nivel4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivel4.Designer.cs">
+      <DependentUpon>Nivel4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\AtualizarPontosServices.cs" />
+    <EmbeddedResource Include="Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0Login.resx">
+      <DependentUpon>0Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classificacao.resx">
+      <DependentUpon>Classificacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel1.resx">
+      <DependentUpon>Nivel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2.resx">
+      <DependentUpon>Nivel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero0.resx">
+      <DependentUpon>Nivel3_numero0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero1.resx">
+      <DependentUpon>Nivel3_numero1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero2.resx">
+      <DependentUpon>Nivel3_numero2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero3.resx">
+      <DependentUpon>Nivel3_numero3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero4.resx">
+      <DependentUpon>Nivel3_numero4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero5.resx">
+      <DependentUpon>Nivel3_numero5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero6.resx">
+      <DependentUpon>Nivel3_numero6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero7.resx">
+      <DependentUpon>Nivel3_numero7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero8.resx">
+      <DependentUpon>Nivel3_numero8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel3_numero9.resx">
+      <DependentUpon>Nivel3_numero9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel5.resx">
+      <DependentUpon>Nivel5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel4.resx">
+      <DependentUpon>Nivel4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\girada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alvo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOOOOOOOOOOM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\184923704.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numerosNivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero1Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero2Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero3Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero4Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero5Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero6Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero7Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero8Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero9Nivel4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numerosNivel41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero9.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero0.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero1.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero2.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero3.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero4.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero5.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero6.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero7.mpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numero8.mpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
